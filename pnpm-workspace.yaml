@@ -1,6 +1,6 @@
 packages:
   - .
+allowBuilds:
+  unrs-resolver: set this to true or false
+  unrs-resolver@1.12.2: true
 minimumReleaseAge: 2880
-onlyBuiltDependencies:
-  - bcrypt
-  - sharp
